@@ -1,2 +1,9 @@
 # 01-git-github
-langkah-langkah
+Langkah - Langkah dari Praktik Github
+1. Instalasi Git
+    Git tersedia untuk berbagai sistem operasi yaitu: Linux, Mac OS X, dan Windows. Git bisa menggunakan antarmuka grafis (GUI) maupun CLI (command line interface).
+2. Konfigurasi Git
+    User harus memberitahu Git tentang username serta email yang digunakan setiap kali terjadi perubahan pada repo Git. Username serta email ini yang akan dimasukkan oleh Git ke catatan perubahan di repo. Di sistem operasi Linux atau sejanis (UNIX), konfigurasi ini nantinya akan disimpan di $HOME/.gitconfig. Untuk sistem operasi Windows, konfigurasi ini akan disimpan di C:\Document and Settings\NamaUser dengan nama file .gitconfig. Secara minimal, ada 2 hal yang perlu dikonfigurasi yaitu username dan email.
+3. Mengelola Repo Sendiri
+    Sebagai pengguna Git dan GitHub, kita bisa mempunyai repository di GitHub, baik untuk repo yang bersifat publik maupun bersifat privat. Pemakai GitHub bisa memilih akan menggunakan publik atau privat jika ingin membuat repo tersebut hanya bisa diakses oleh user yang bersangkutan atau orang-orang lain yang diberi akses. Suatu repo dimaksudkan untuk menyimpan dokumen, source code, gambar, dan lain-lain. Setiap satu repo biasanya digunakan untuk satu kepentingan tertentu. Repo yang ada di GitHub ini juga ada di komputer lokal pengguna. Dengan demikian, untuk setiap repo, kita mempunyai tempat penyimpanan di GitHub maupun di komputer lokal dan keduanya tersinkronisasi. Pemakai biasanya melakukan berbagai manipulasi di komputer lokal, setelah itu mengirimkan hasilnya ke repo GitHub. Proses ini disebut dengan proses push.
+    
